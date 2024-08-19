@@ -1,0 +1,3 @@
+```shell
+pio run -t menuconfig
+```
